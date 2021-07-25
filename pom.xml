@@ -12,7 +12,6 @@
 	<groupId>com.docker</groupId>
 	<artifactId>001-hello-word-spring-dockerfile</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
 	<name>001-hello-word-spring-dockerfile</name>
 	<description>This is the docker file image with simple spring boot</description>
 	<properties>
